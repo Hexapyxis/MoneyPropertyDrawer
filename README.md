@@ -20,7 +20,7 @@ The tutorial is available on [My YouTube Channel](https://www.youtube.com/@Hexap
 
 ## License
 
-The Money.cs script and coin icons are provided free of charge and may be used for non-commercial purposes only.
+The coin icons are provided free of charge and may be used for non-commercial purposes only.
 Permissions:
 
     You may use and modify these resources for personal or educational purposes.
